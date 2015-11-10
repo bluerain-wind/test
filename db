@@ -1,1 +1,1 @@
-db
+insert into test(fd_id, fd_name) value('1', 'zf');
