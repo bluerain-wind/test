@@ -6,6 +6,9 @@ public class Test {
 		System.out.println("hello world!");
 		System.out.println("haha!");
 		System.out.println("haha!");
+		
+		
+		System.out.println("测试冲突");
 	}
 
 }
